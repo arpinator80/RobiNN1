@@ -10,4 +10,4 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RobiNN1)
 
-If you use any of my packages or PHPFusion stuff, please consider sponsoring me! [PayPal](https://www.paypal.me/robertkelcak)
+If you use any of my packages or any stuff created by me, please consider sponsoring me! [PayPal](https://www.paypal.me/robertkelcak)
